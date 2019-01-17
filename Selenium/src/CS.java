@@ -13,7 +13,7 @@ public class CS
 		
 		if(actualTitle.equals("Welcome: Mercury Tours"))
 		{
-			System.out.println("Title Matched");
+			System.out.println("Title Matched Successfully");
 		}
 		else
 		{
