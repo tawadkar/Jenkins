@@ -5,7 +5,8 @@ public class HelloWorld
 
 		System.out.println("Hello World!!");
 		
-		System.out.println("Commiting the changes");
+		System.out.println("Commiting the changes to run the jenkins job");
+		
 	}
 
 }
